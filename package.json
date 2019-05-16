@@ -1,0 +1,20 @@
+﻿{
+  "name": "commitlint-config-rocketseat",
+  "version": "0.0.1",
+  "description": "Shareable commitlint config used by Rocketseat",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rocketseat/commitlint-config-rocketseat.git"
+  },
+  "keywords": [
+    "commitlint",
+    "config",
+    "rocketseat",
+    "git"
+  ]
+}
