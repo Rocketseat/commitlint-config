@@ -1,6 +1,6 @@
 # commitlint-config-rocketseat
 
-Shareable [`commitlint`](https://github.com/marionebl/commitlint) config used by Rocketseat.
+Shareable [`commitlint`](https://github.com/conventional-changelog/commitlint) config used by Rocketseat.
 
 ## Getting started
 
