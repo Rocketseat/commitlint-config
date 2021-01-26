@@ -1,7 +1,7 @@
 ﻿module.exports = {
   rules: {
     "type-case": [2, "always", "lower-case"],
-    "type-enum": [2, "always", ["chore", "ci", "docs", "feat", "fix", "test"]],
+    "type-enum": [2, "always", ["chore", "ci", "docs", "feat", "fix", "test", "style"]],
     "subject-case": [2, "always", "sentence-case"],
     "subject-max-length": [2, "always", 50],
     "subject-empty": [2, "never"],
