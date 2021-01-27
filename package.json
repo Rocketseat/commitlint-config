@@ -1,5 +1,5 @@
 ﻿{
-  "name": "commitlint-config-rocketseat",
+  "name": "@rocketseat/commitlint-config",
   "version": "0.0.1",
   "description": "Shareable commitlint config used by Rocketseat",
   "main": "index.js",
@@ -9,12 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rocketseat/commitlint-config-rocketseat.git"
+    "url": "https://github.com/Rocketseat/commitlint-config.git"
   },
+  "bugs": {
+    "url": "https://github.com/Rocketseat/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/Rocketseat/commitlint-config#readme",
   "keywords": [
     "commitlint",
     "config",
+    "commitlint-config",
     "rocketseat",
     "git"
-  ]
+  ],
+  "engines": {
+    "node": ">=v10"
+  }
 }
