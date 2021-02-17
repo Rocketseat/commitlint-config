@@ -1,6 +1,6 @@
 ﻿{
   "name": "@rocketseat/commitlint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shareable commitlint config used by Rocketseat",
   "main": "index.js",
   "license": "MIT",
